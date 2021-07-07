@@ -1,0 +1,8 @@
+*{list-style:none;border:0px; margin:0px; padding:0px;}
+.container{padding:0;margin:0 auto; max-width:1497px;}
+.nav-bar{background-color:rgb(224, 82, 46); height:50px;display:flex;
+justify-content:space-between; align-items: center;}
+.nav-bar p{font-family: 'Encode Sans SC', sans-serif;letter-spacing:5px; font-weight:bold; font-size:20px;margin-left:20px;   }
+.nav-list{display:flex; justify-content:space-around; width:50%;}
+.nav-list li a{transition:0.2s;font-family: 'Encode Sans SC', sans-serif;font-size:20px;color:rgb(255, 255, 255);text-decoration:none;}
+.nav-list li a:hover{color:rgb(51, 51, 51);}
